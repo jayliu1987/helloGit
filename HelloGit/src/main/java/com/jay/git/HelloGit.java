@@ -17,5 +17,6 @@ public class HelloGit {
         System.out.println("创建dev4分支");
         System.out.println("创建dev3分支");
         System.out.println("主干添加内容");
+        System.out.println("分支dev添加内容");
     }
 }
